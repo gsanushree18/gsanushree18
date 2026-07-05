@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anushree G S
 
-<!--
-**gsanushree18/gsanushree18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+## About Me
+I am a BCA student passionate about Software Development, Artificial Intelligence and Machine Learning. I enjoy building projects in C++ and continuously improving my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Employee Payroll Management System (C++)
+- Student Management System (C++)
+
+## Technical Skills
+- C++
+- C
+- Python
+- Git & GitHub
+- Artificial Intelligence Fundamentals
+- Machine Learning (Beginner)
+
+## Certifications
+- IBM SkillsBuild – Artificial Intelligence Fundamentals
+- IBM SkillsBuild – AI Ethics
+- IBM SkillsBuild – Run AI Models with IBM Watson Studio
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- GitHub: https://github.com/gsanushree18
