@@ -82,14 +82,16 @@ salary calculation, and report generation.
 
 ---
 
-## 🔗 Connect With Me
+🔗 Connect With Me
 
-💼 **LinkedIn:**  
+💼 LinkedIn:
 https://www.linkedin.com/in/anushree-govindaraj/
 
-💻 **GitHub:**  
+💻 GitHub:
 https://github.com/gsanushree18
 
+🐦 X (Twitter):
+https://x.com/gsanushree
 ---
 
 ### ✨ Thanks for visiting my profile!
