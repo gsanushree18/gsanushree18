@@ -62,6 +62,16 @@ salary calculation, and report generation.
 
 ---
 
+## 🏆 Google Developer Badges
+
+[![Google Developer Badge]
+1.https://developers.google.com/profile/badges/profile/created-profile
+2.https://developers.google.com/profile/badges/playlists/solutions/antigravity-arcade/learn
+3.https://developers.google.com/profile/badges/community/sdlcagents/gca-agents
+4.https://developers.google.com/profile/badges/playlists/solutions/antigravity-arcade/learn
+5.https://developers.google.com/profile/badges/recognitions/learnings
+6.https://developers.google.com/profile/badges/playlists/solutions/antigravity-arcade/learn
+
 ## 🌱 Currently Learning
 
 - Artificial Intelligence
