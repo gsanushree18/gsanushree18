@@ -1,6 +1,6 @@
 # Hi, I'm Anushree G S 👋
 
-### BCA Student | AI & Full-Stack Developer
+### BCA Student | AI Product Designer +Full-Stack Developer
 
 I'm Anushree G S, a BCA student passionate about Artificial Intelligence,
 Full-Stack Development, and building practical technology solutions.
